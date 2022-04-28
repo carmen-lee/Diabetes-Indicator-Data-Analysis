@@ -19,5 +19,5 @@ We demonstrated 3 different machine learning methods (KNN, Logistic Regression, 
 As a result of this analysis, we were able to determine that the ANN model was the most accurate and effective method.
 
 
-This analysis was used for my CS422 - Intro to Machine Learning course at the University of Nevada, Las Vegas.
+_This analysis was used for my CS422 - Intro to Machine Learning course at the University of Nevada, Las Vegas._
 
