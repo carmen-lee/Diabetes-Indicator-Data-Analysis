@@ -10,6 +10,8 @@ This analysis was performed using a dataset of 253,680 responses from a telephon
 
 This dataset was originally comprised of 330 features, but has been reduced to 21 features for the purposes of this project.  The features that were included in this analysis ranged from relevant health conditions to lifestyle elements and is represented as a binary (0/1) response. The resultant variable consists of two classes: the absence of diabetes, and pre-diabetic or diabetic.
 
+Dataset: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
+
 
 # Conclusion
 We demonstrated 3 different machine learning methods (KNN, Logistic Regression, and Neural Network) to generate a predictive model to determine whether or not an individual has diabetes, depending on certain health indicators. The F-score, which is a measure for accuracy and accounts for both False - Positives and False - Negatives, was used to compare the models which yielded 0.86, 0.87, and 0.87 respectively. The ROC curve was another determining performance evaluator that was used to analyze the cut-off threshold for classification, which yielded 0.77, 0.82, and 0.83 respectively. 
