@@ -1,4 +1,4 @@
-# Diabetes Indicator Data Analysis - CS422
+# Diabetes Indicator Data Analysis
 
 Diabetes is a disease that affects over 400 million people worldwide. It is characterized by the inability of your body to produce or utilize the hormone insulin to break down glucose. In other words, it affects how your body turns food into energy. Despite how commonplace the condition is and the amount of resources available, it frequently goes undiagnosed for years. 
 
@@ -16,5 +16,8 @@ Dataset: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-d
 # Conclusion
 We demonstrated 3 different machine learning methods (KNN, Logistic Regression, and Neural Network) to generate a predictive model to determine whether or not an individual has diabetes, depending on certain health indicators. The F-score, which is a measure for accuracy and accounts for both False - Positives and False - Negatives, was used to compare the models which yielded 0.86, 0.87, and 0.87 respectively. The ROC curve was another determining performance evaluator that was used to analyze the cut-off threshold for classification, which yielded 0.77, 0.82, and 0.83 respectively. 
 
-As a result of this analysis, we were able to determine that the ANN model was the most accurate and effective method. 
+As a result of this analysis, we were able to determine that the ANN model was the most accurate and effective method.
+
+
+This analysis was used for my CS422 - Intro to Machine Learning course at the University of Nevada, Las Vegas.
 
